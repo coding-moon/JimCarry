@@ -32,8 +32,7 @@
 - java
 - jQuery
 - Thymeleaf
-- QueryDSL
-- JPA
+- MyBatis
 - Spring Boot
 - HTML, CSS, JS
 - MySQL
